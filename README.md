@@ -1,10 +1,19 @@
 <!-- Banner or Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&pause=1000&color=red&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+30$ativa!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+  <img src="https://avatars.githubusercontent.com/u/134832634?v=4" width="120" style="border-radius:50%" alt="avatar"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#e63946;">30$ativa</span> 👋</h1>
-<p align="center"><b>Backend Developer | C# & .NET Enthusiast | Lifelong Learner</b></p>
+<h1 align="center">
+  <b>Hi, I'm <span style="color:#e63946;">30$ativa</span> 👋</b>
+</h1>
+
+<p align="center">
+  <i>Backend Developer | C# & .NET Enthusiast | Always Learning</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -24,7 +33,7 @@
   🛠️ <b>Tech:</b> C#, .NET, HTML, CSS, C, Java, Docker <br>
   🌱 <b>Learning:</b> Git, GitHub, Cloud, DevOps <br>
   🚀 <b>Goal:</b> Become a top backend developer <br>
-  ✉️ <b>Contact:</b> <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.facebook.com/rgame.thanh" target="_blank">Facebook</a>
+  ✉️ <b>Contact:</b> <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a>
 </p>
 
 ---
@@ -87,5 +96,6 @@
 ## 🤝 Connect with me
 <p align="left">
   <a href="mailto:thanhrrgame@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.facebook.com/rgame.thanh" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
