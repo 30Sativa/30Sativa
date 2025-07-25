@@ -1,8 +1,4 @@
 <!-- Banner or Typing SVG -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/134832634?v=4" width="120" style="border-radius:50%" alt="avatar"/>
-</p>
-
 <h1 align="center">
   <b>Hi, I'm <span style="color:#e63946;">30$ativa</span> 👋</b>
 </h1>
@@ -12,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing SVG" /></a>
 </p>
 
 ---
