@@ -8,29 +8,57 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let%27s+build+something+awesome+together!" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Backend+Developer;C%23+%7C+.NET+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=C%23+Developer;.NET+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
-<blockquote align="center">
-  <b>🎓 3rd-year Software Engineering Student</b> <br>
-  <b>🏫 FPT University, Ho Chi Minh City</b>
-</blockquote>
-
-<p align="center">
-  💻 <b>Backend Developer</b> <br>
-  🛠️ <b>Tech:</b> C#, .NET, HTML, CSS, C, Java, Docker <br>
-  🌱 <b>Learning:</b> Git, GitHub, Cloud, DevOps <br>
-  🚀 <b>Goal:</b> Become a top backend developer <br>
-  ✉️ <b>Contact:</b> <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="30" src="https://img.icons8.com/color/48/000000/graduation-cap.png" alt="Education"/>
+      </td>
+      <td>
+        <b>🎓 3rd-year Software Engineering Student</b><br>
+        <i>FPT University, Ho Chi Minh City</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="30" src="https://img.icons8.com/color/48/000000/code.png" alt="Code"/>
+      </td>
+      <td>
+        <b>💻 Backend Developer</b><br>
+        <i>Focused on C# & .NET ecosystem</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="30" src="https://img.icons8.com/color/48/000000/learning.png" alt="Learning"/>
+      </td>
+      <td>
+        <b>🌱 Always Learning</b><br>
+        <i>Git, GitHub, Cloud, DevOps</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="30" src="https://img.icons8.com/color/48/000000/goal--v1.png" alt="Goal"/>
+      </td>
+      <td>
+        <b>🚀 Goal</b><br>
+        <i>Become a top backend developer</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
