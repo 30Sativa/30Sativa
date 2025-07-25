@@ -9,18 +9,23 @@
 ---
 
 ## 👨‍💻 About Me
+
 <p align="center">
-  <b>🎓 3rd-year Software Engineering Student</b> <br/>
-  <b>🏫 FPT University, Ho Chi Minh City, Vietnam</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Backend+Developer;C%23+%7C+.NET+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<ul>
-  <li>💻 <b>Backend Developer</b> - Focused on <b>C# & .NET</b></li>
-  <li>🌱 <b>Always learning</b> Git, GitHub, and new technologies</li>
-  <li>🛠️ Familiar with <b>HTML, CSS, C, Java</b></li>
-  <li>🚀 <b>Goal:</b> Become a top backend developer specializing in C# and .NET</li>
-  <li>✉️ <b>Contact:</b> <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a></li>
-</ul>
+<blockquote align="center">
+  <b>🎓 3rd-year Software Engineering Student</b> <br>
+  <b>🏫 FPT University, Ho Chi Minh City</b>
+</blockquote>
+
+<p align="center">
+  💻 <b>Backend Developer</b> <br>
+  🛠️ <b>Tech:</b> C#, .NET, HTML, CSS, C, Java, Docker <br>
+  🌱 <b>Learning:</b> Git, GitHub, Cloud, DevOps <br>
+  🚀 <b>Goal:</b> Become a top backend developer <br>
+  ✉️ <b>Contact:</b> <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.facebook.com/rgame.thanh" target="_blank">Facebook</a>
+</p>
 
 ---
 
