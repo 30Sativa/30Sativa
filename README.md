@@ -1,6 +1,6 @@
 <!-- Banner or Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&pause=1000&color=3FFF8B&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+ZienK!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=900&pause=1000&color=3FFF8B&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+30$ativa!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
