@@ -37,15 +37,15 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=zienk&show_icons=true&theme=tokyonight" alt="30$ativa's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=30Sativa&show_icons=true&theme=tokyonight" alt="30$ativa's GitHub Stats" />
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienk&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30Sativa&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=zienk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=30Sativa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -56,9 +56,9 @@
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zienk/zienk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zienk/zienk/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/zienk/zienk/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/30Sativa/30Sativa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/30Sativa/30Sativa/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/30Sativa/30Sativa/output/github-snake.svg" />
   </picture>
 </p>
 
