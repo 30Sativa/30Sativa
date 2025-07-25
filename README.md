@@ -9,12 +9,18 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 3rd-year Software Engineering student at FPT University, Ho Chi Minh City, Vietnam.
-- 💻 Focused on C# and .NET backend development.
-- 🌱 Always learning and improving my Git & GitHub skills.
-- 🛠️ Also familiar with HTML, CSS, C, and Java.
-- 🚀 My goal: Become a top backend developer specializing in C# and .NET.
-- ✉️ Contact me: <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a>
+<p align="center">
+  <b>🎓 3rd-year Software Engineering Student</b> <br/>
+  <b>🏫 FPT University, Ho Chi Minh City, Vietnam</b>
+</p>
+
+<ul>
+  <li>💻 <b>Backend Developer</b> - Focused on <b>C# & .NET</b></li>
+  <li>🌱 <b>Always learning</b> Git, GitHub, and new technologies</li>
+  <li>🛠️ Familiar with <b>HTML, CSS, C, Java</b></li>
+  <li>🚀 <b>Goal:</b> Become a top backend developer specializing in C# and .NET</li>
+  <li>✉️ <b>Contact:</b> <a href="mailto:thanhrrgame@gmail.com">thanhrrgame@gmail.com</a></li>
+</ul>
 
 ---
 
