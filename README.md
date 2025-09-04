@@ -34,7 +34,7 @@
   <p>
     <b>🎓 3rd-year Software Engineering</b> · <i>FPT University (HCM)</i><br>
     <b>💻 Backend Developer</b> · C# · .NET · REST APIs<br>
-    <b>🌱 Currently learning</b> · Azure · CI/CD · Microservices · Spring Boot<br>
+    <b>🌱 Currently learning</b> · AWS · CI/CD · TypeScript · Microservices · Spring Boot<br>
     <b>🎯 Goal</b> · Become a top backend developer
   </p>
 </div>
@@ -76,7 +76,7 @@
 
 <h3>📚 Currently Learning</h3>
 <p>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservice-2088FF?style=for-the-badge&logo=microgen&logoColor=white"/>
