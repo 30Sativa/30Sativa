@@ -72,6 +72,7 @@
 <h3>🗄️ Database</h3>
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <h3>📚 Currently Learning</h3>
