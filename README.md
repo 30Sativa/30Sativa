@@ -27,48 +27,16 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=C%23+Developer;.NET+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2496ED&center=true&vCenter=true&width=520&lines=C%23+Developer+.NET+Enthusiast;Backend+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="30" src="https://img.icons8.com/color/48/000000/graduation-cap.png" alt="Education"/>
-      </td>
-      <td>
-        <b>🎓 3rd-year Software Engineering Student</b><br>
-        <i>FPT University, Ho Chi Minh City</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="30" src="https://img.icons8.com/color/48/000000/code.png" alt="Code"/>
-      </td>
-      <td>
-        <b>💻 Backend Developer</b><br>
-        <i>Focused on C# & .NET ecosystem</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="30" src="https://img.icons8.com/color/48/000000/learning.png" alt="Learning"/>
-      </td>
-      <td>
-        <b>🌱 Always Learning</b><br>
-        <i>Git, GitHub, Cloud, DevOps</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="30" src="https://img.icons8.com/color/48/000000/goal--v1.png" alt="Goal"/>
-      </td>
-      <td>
-        <b>🚀 Goal</b><br>
-        <i>Become a top backend developer</i>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <b>🎓 3rd-year Software Engineering</b> · <i>FPT University (HCM)</i><br>
+    <b>💻 Backend Developer</b> · C# · .NET · REST APIs<br>
+    <b>🌱 Currently learning</b> · Azure · CI/CD · Microservices · Spring Boot<br>
+    <b>🎯 Goal</b> · Become a top backend developer
+  </p>
 </div>
 
 <hr>
