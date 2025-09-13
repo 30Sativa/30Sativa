@@ -22,7 +22,6 @@
 </p>
 
 <hr>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨‍💻 About Me
 
@@ -30,21 +29,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+30$ativa;Backend+Developer+%7C+C%23+Enthusiast;Building+Scalable+APIs+%7C+Problem+Solver;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <p>
-    <b>🎓 3rd-year Software Engineering Student</b> • <i>FPT University (HCM)</i><br>
-    <b>💻 Passionate Backend Developer</b> • C# • .NET • REST APIs • Microservices<br>
-    <b>🌱 Currently exploring</b> • AWS • CI/CD • TypeScript • Spring Boot • Cloud Architecture<br>
-    <b>🎯 Goal</b> • Become a senior backend developer and tech lead
-  </p>
-</div>
+<table>
+<tr>
+<td width="60%" align="left">
 
-<div align="center">
-  <p>
-    <i>💡 I love building robust, scalable backend systems and solving complex problems</i><br>
-    <i>🚀 Always eager to learn new technologies and contribute to open source projects</i>
-  </p>
-</div>
+### 🎯 Who I Am
+- 🎓 **3rd-year Software Engineering Student** at FPT University (HCM)
+- 💻 **Passionate Backend Developer** specializing in C# and .NET
+- 🌱 **Currently exploring** AWS, CI/CD, TypeScript, Spring Boot, and Cloud Architecture
+- 🎯 **Goal**: Become a senior backend developer and tech lead
+
+### 💡 What I Love
+- Building robust, scalable backend systems
+- Solving complex problems with elegant solutions
+- Learning new technologies and frameworks
+- Contributing to open source projects
+- Collaborating with amazing developers
+
+</td>
+<td width="40%" align="center">
+
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+</td>
+</tr>
+</table>
 
 <hr>
 
